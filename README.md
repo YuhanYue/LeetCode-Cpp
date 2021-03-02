@@ -1,6 +1,4 @@
 # LeetCode-Cpp
-🤙🏻Leetcode Record  
-
 ⛽️TALK IS CHEAP. SHOW ME THE CODE!!  
   
  >题目来源: [LeetCode](https://leetcode-cn.com/)
