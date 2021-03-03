@@ -1,20 +1,27 @@
 # LeetCode-Cpp
 ⛽️TALK IS CHEAP. SHOW ME THE CODE!!  
-  
+
  >题目来源: [LeetCode](https://leetcode-cn.com/)
  >
-      
+
 ## 🔢Array
-| Difficulty | Title                     | Date       |
+| Difficulty | Title | Date |
+| ---------- | ----- | ---- |
+|            |       |      |
 | :--------: | ------------------------- | ---------- |
+| ---------- | ------------------------- | ---------- |
+|            |                           |            |
 |    Easy    | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2039.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)| 2021.03.02
-|    Easy    | [剑指 Offer 42. 连续子数组的最大和](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2042.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)| 2021.03.03        
+|    Easy    | [剑指 Offer 42. 连续子数组的最大和](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2042.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)| 2021.03.03
+
+|    Easy    | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I.md)| 2021.03.03          
        
+
 ## ✏️String
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Easy    | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md)| 2021.03.03
-  
+
 ## 🔗Linklist
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
@@ -31,7 +38,7 @@
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Easy    | [剑指 Offer 29. 顺时针打印矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2029.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)| 2021.03.02  
-  
-    
+
+​    
 
 
