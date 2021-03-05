@@ -40,6 +40,8 @@
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Easy    | [剑指 Offer 29. 顺时针打印矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2029.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)| 2021.03.02  
+|    Medium    | [剑指 Offer 12. 矩阵中的路径](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)| 2021.03.05 
+
 
 ​    
 
