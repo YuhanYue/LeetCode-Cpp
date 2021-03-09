@@ -43,8 +43,11 @@
 |    Medium    | [剑指 Offer 12. 矩阵中的路径](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)| 2021.03.05 
 |    Medium    | [剑指 Offer 13. 机器人的运动范围](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2013.%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md)| 2021.03.05 
 |    Medium    | [200. 岛屿数量](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/200.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)| 2021.03.05 
-
-
+  
+## 😭Binary
+| Difficulty | Title                     | Date       |
+| :--------: | ------------------------- | ---------- |
+|    Medium    | [剑指 Offer 16. 数值的整数次方](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Binary/%E5%89%91%E6%8C%87%20Offer%2016.%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md)| 2021.03.09
 ​   
 
 
