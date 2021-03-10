@@ -11,7 +11,8 @@
 |    Easy    | [剑指 Offer 42. 连续子数组的最大和](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2042.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)| 2021.03.03
 |    Easy    | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I.md)| 2021.03.03          
 |    Easy    | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2061.%20%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%AD%90.md)| 2021.03.03 
-|    Easy    | [剑指 Offer 57. 和为s的两个数字](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)| 2021.03.04      
+|    Easy    | [剑指 Offer 57. 和为s的两个数字](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)| 2021.03.04     
+|    Easy    | [剑指 Offer 40. 最小的k个数](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)| 2021.03.10
        
 
 ## ✏️String
@@ -58,6 +59,8 @@
 |    Medium    | [剑指 Offer 12. 矩阵中的路径](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)| 2021.03.05 
 |    Medium    | [剑指 Offer 13. 机器人的运动范围](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2013.%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md)| 2021.03.05 
 |    Medium    | [200. 岛屿数量](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/200.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)| 2021.03.05 
+|    Medium    | [面试题 01.07. 旋转矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.07.%20%E6%97%8B%E8%BD%AC%E7%9F%A9%E9%98%B5.md)| 2021.03.10
+|    Medium    | [面试题 01.08. 零矩阵.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.08.%20%E9%9B%B6%E7%9F%A9%E9%98%B5.md)| 2021.03.10
 
 
 
