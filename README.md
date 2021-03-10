@@ -12,7 +12,7 @@
 |    Easy    | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I.md)| 2021.03.03          
 |    Easy    | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2061.%20%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%AD%90.md)| 2021.03.03 
 |    Easy    | [剑指 Offer 57. 和为s的两个数字](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)| 2021.03.04     
-|    Easy    | [剑指 Offer 40. 最小的k个数](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)| 2021.03.04     
+|    Easy    | [剑指 Offer 40. 最小的k个数](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)| 2021.03.10
        
 
 ## ✏️String
