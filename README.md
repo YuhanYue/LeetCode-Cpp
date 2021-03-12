@@ -31,6 +31,9 @@
 |    Easy    | [面试题 02.01. 移除重复节点](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.01.%20%E7%A7%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E8%8A%82%E7%82%B9.md)| 2021.03.11
 |    Easy    | [面试题 02.02. 返回倒数第 k 个节点](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.02.%20%E8%BF%94%E5%9B%9E%E5%80%92%E6%95%B0%E7%AC%AC%20k%20%E4%B8%AA%E8%8A%82%E7%82%B9.md)| 2021.03.11
 |    Easy    | [面试题 02.03. 删除中间节点](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.03.%20%E5%88%A0%E9%99%A4%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)| 2021.03.11
+|    Easy    | [面试题 02.06. 回文链表](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.06.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)| 2021.03.12
+|    Medium   | [面试题 02.08. 环路检测](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.md)| 2021.03.12
+
 
 
 
