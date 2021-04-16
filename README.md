@@ -21,6 +21,7 @@
 | :--------: | ------------------------- | ---------- |
 |    Easy    | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md)| 2021.03.03
 |    Easy    | [面试题 01.09. 字符串轮转](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.09.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AE%E8%BD%AC.md)| 2021.03.10
+|    Medium    |[3. 无重复字符的最长子串](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)| 2021.04.16
 
 
 
@@ -34,6 +35,7 @@
 |    Easy    | [面试题 02.03. 删除中间节点](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.03.%20%E5%88%A0%E9%99%A4%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)| 2021.03.11
 |    Easy    | [面试题 02.06. 回文链表](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.06.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)| 2021.03.12
 |    Medium   | [面试题 02.08. 环路检测](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.md)| 2021.03.12
+|    Medium   | [2. 两数相加](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)| 2021.04.16
 
 
 
