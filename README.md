@@ -3,6 +3,7 @@
 
  >题目来源: [LeetCode](https://leetcode-cn.com/)  
  >>KILLCOUNT：65/1999 -210311
+ >>KILLCOUNT：72/1999 -210422
 
 ## 🔢Array
 | Difficulty | Title | Date |
