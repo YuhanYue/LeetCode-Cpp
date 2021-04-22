@@ -15,7 +15,9 @@
 |    Easy    | [剑指 Offer 57. 和为s的两个数字](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2057.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)| 2021.03.04     
 |    Easy    | [剑指 Offer 40. 最小的k个数](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)| 2021.03.10
 |    Easy    |[面试题 10.01. 合并排序的数组](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.01.%20%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.md)| 2021.03.23
-       
+|    Easy   |[  1. 两数之和](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)| 2021.04.06
+|    Hard   |[  4. 寻找两个正序数组的中位数](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md)| 2021.04.22
+
 
 ## ✏️String
 | Difficulty | Title                     | Date       |
@@ -37,6 +39,7 @@
 |    Easy    | [面试题 02.06. 回文链表](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.06.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)| 2021.03.12
 |    Medium   | [面试题 02.08. 环路检测](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.md)| 2021.03.12
 |    Medium   | [2. 两数相加](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)| 2021.04.16
+|    Medium   | [6.Z字型变换](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/6.Z%E5%AD%97%E5%9E%8B%E5%8F%98%E6%8D%A2.md)| 2021.04.22
 
 
 
