@@ -42,8 +42,7 @@
 |    Medium   | [面试题 02.08. 环路检测](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.md)| 2021.03.12
 |    Medium   | [2. 两数相加](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)| 2021.04.16
 |    Medium   | [6.Z字型变换](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/6.Z%E5%AD%97%E5%9E%8B%E5%8F%98%E6%8D%A2.md)| 2021.04.22
-|    Medium   | [19. 删除链表的倒数第 N 个结点.md
-](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)| 2021.06.28
+|    Medium   | [19. 删除链表的倒数第 N 个结点.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)| 2021.06.28
 
 
 
