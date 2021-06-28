@@ -2,8 +2,7 @@
 ⛽️TALK IS CHEAP. SHOW ME THE CODE!!  
 
  >题目来源: [LeetCode](https://leetcode-cn.com/)  
- >>KILLCOUNT：65/1999 -210311
- >>KILLCOUNT：72/1999 -210422
+
 
 ## 🔢Array
 | Difficulty | Title | Date |
@@ -42,7 +41,8 @@
 |    Medium   | [面试题 02.08. 环路检测](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.md)| 2021.03.12
 |    Medium   | [2. 两数相加](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)| 2021.04.16
 |    Medium   | [6.Z字型变换](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/6.Z%E5%AD%97%E5%9E%8B%E5%8F%98%E6%8D%A2.md)| 2021.04.22
-|    Medium   | [19. 删除链表的倒数第 N 个结点.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)| 2021.06.28
+|    Medium   | [19. 删除链表的倒数第 N 个结点.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)| 2021.06.27
+|    Hard   | [23 Merge Korted Lists.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/23%20Merge%20Korted%20Lists.md)| 2021.06.28
 
 
 
@@ -55,6 +55,7 @@
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Easy    | [剑指 Offer 30. 包含min函数的栈](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Stack/%E5%89%91%E6%8C%87%20Offer%2030.%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)| 2021.03.09
+|    Easy    | [20.有效的括号](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Stack/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)| 2021.06.28
 
 
 
@@ -95,3 +96,12 @@
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Easy    | [7.整数反转](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Math/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)| 2021.06.28
+  
+  
+  
+## 😷DFS && BFS
+| Difficulty | Title                     | Date       |
+| :--------: | ------------------------- | ---------- |
+|    Medium    | [22.Generate Parentheses](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/DFS/22.Generate%20Parentheses.md)| 2021.06.28
+D
+
