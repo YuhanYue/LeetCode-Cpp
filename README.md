@@ -17,6 +17,8 @@
 |    Easy   |[  1. 两数之和](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)| 2021.04.06
 |    Hard   |[  4. 寻找两个正序数组的中位数](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md)| 2021.04.22
 |    Medium   |[15. 三数之和](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)| 2021.06.28
+|   Easy   |[53. Maximum Subarray](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/53.%20Maximum%20Subarray.md)| 2021.06.30
+|   Medium   |[56. Merge Intervals](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Array/56.%20Merge%20Intervals.md)| 2021.06.30
 
 
 ## ✏️String
@@ -81,7 +83,8 @@
 |    Medium    | [剑指 Offer 13. 机器人的运动范围](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E5%89%91%E6%8C%87%20Offer%2013.%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md)| 2021.03.05 
 |    Medium    | [200. 岛屿数量](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/200.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)| 2021.03.05 
 |    Medium    | [面试题 01.07. 旋转矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.07.%20%E6%97%8B%E8%BD%AC%E7%9F%A9%E9%98%B5.md)| 2021.03.10
-|    Medium    | [面试题 01.08. 零矩阵.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.08.%20%E9%9B%B6%E7%9F%A9%E9%98%B5.md)| 2021.03.10
+|    Medium    | [面试题 01.08. 零矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.08.%20%E9%9B%B6%E7%9F%A9%E9%98%B5.md)| 2021.03.10
+|    Medium    | [54. Spiral Matrix](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/54.Spiral%20Matrix.md)| 2021.06.30
 
 
 
@@ -103,5 +106,16 @@
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Medium    | [22.Generate Parentheses](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/DFS/22.Generate%20Parentheses.md)| 2021.06.28
-D
+  
+## 👣Dynamic Programming
+| Difficulty | Title                     | Date       |
+| :--------: | ------------------------- | ---------- |
+|    Medium    | [62. Unique Paths](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Dynamic%20Programming/62.%20Unique%20Paths.md)| 2021.06.30
+|    Medium    | [Minimum Path Sum.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Dynamic%20Programming/Minimum%20Path%20Sum.md)| 2021.06.30
+
+
+## 💰Greedy Algo
+| Difficulty | Title                     | Date       |
+| :--------: | ------------------------- | ---------- |
+|    Medium    | [55. Jump Game](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Greedy%20Algo/55.%20Jump%20Game.md)| 2021.06.30
 
