@@ -43,8 +43,13 @@
 |    Medium   | [面试题 02.08. 环路检测](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.md)| 2021.03.12
 |    Medium   | [2. 两数相加](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)| 2021.04.16
 |    Medium   | [6.Z字型变换](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/String/6.Z%E5%AD%97%E5%9E%8B%E5%8F%98%E6%8D%A2.md)| 2021.04.22
-|    Medium   | [19. 删除链表的倒数第 N 个结点.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)| 2021.06.27
-|    Hard   | [23 Merge Korted Lists.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/23%20Merge%20Korted%20Lists.md)| 2021.06.28
+|    Medium   | [19. 删除链表的倒数第 N 个结点](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)| 2021.06.27
+|    Hard   | [23 Merge Korted Lists](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/23%20Merge%20Korted%20Lists.md)| 2021.06.28
+|    EASY   | [141.Linked List Cycle](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/141.Linked%20List%20Cycle.md)| 2021.07.06
+|    EASY   | [206. reverse linked list](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Linklist/206.%20reverse%20linked%20list.md)| 2021.07.07
+
+
+
 
 
 
@@ -71,7 +76,12 @@
   |    Easy    | [剑指 Offer 28. 对称的二叉树](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/%E5%89%91%E6%8C%87%20Offer%2028.%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md)| 2021.03.02
 |    Easy     | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/%E5%89%91%E6%8C%87%20Offer%2032%20-%20II.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II.md)| 2021.03.03
 |    Easy     | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/%E5%89%91%E6%8C%87%20Offer%2055%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)| 2021.03.04 
-
+|    Medium    | [94. Binary TreeInorder Traversal](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/l.md)| 2021.07.06
+|    Medium    | [98. Validate Binary Search Tree](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/98.%20Validate%20Binary%20Search%20Tree.md)| 2021.07.06
+|    Medium    | [96.Unique Binary Seartch Trees](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/96.Unique%20Binary%20Seartch%20Tress.md)| 2021.07.06
+|    Medium    | [96.Unique Binary Seartch Trees](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/96.Unique%20Binary%20Seartch%20Tress.md)| 2021.07.06
+|    Medium    | [114. Flatten Binary Tree to Linked List](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)| 2021.07.06
+|    Medium    | [102.Binary Tree Level Order traversal](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/BinaryTree/102.Binary%20Tree%20Level%20Order%20traversal.md)| 2021.07.06
 
 
 ## 🌃Graph
@@ -85,6 +95,10 @@
 |    Medium    | [面试题 01.07. 旋转矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.07.%20%E6%97%8B%E8%BD%AC%E7%9F%A9%E9%98%B5.md)| 2021.03.10
 |    Medium    | [面试题 01.08. 零矩阵](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.08.%20%E9%9B%B6%E7%9F%A9%E9%98%B5.md)| 2021.03.10
 |    Medium    | [54. Spiral Matrix](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/54.Spiral%20Matrix.md)| 2021.06.30
+|    Medium    | [73.Set matrix zeores](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Graph/73.Set%20matrix%20zeores.md)| 2021.07/07
+
+
+
 
 
 
@@ -111,11 +125,17 @@
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Medium    | [62. Unique Paths](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Dynamic%20Programming/62.%20Unique%20Paths.md)| 2021.06.30
-|    Medium    | [Minimum Path Sum.md](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Dynamic%20Programming/Minimum%20Path%20Sum.md)| 2021.06.30
+|    Medium    | [Minimum Path Sum](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Dynamic%20Programming/Minimum%20Path%20Sum.md)| 2021.06.30
+|    Medium    | [198. House Robber](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Dynamic%20Programming/198.%20House%20Robber.md)| 2021.07.08
 
 
 ## 💰Greedy Algo
 | Difficulty | Title                     | Date       |
 | :--------: | ------------------------- | ---------- |
 |    Medium    | [55. Jump Game](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Greedy%20Algo/55.%20Jump%20Game.md)| 2021.06.30
+  
+  
+
+## 📖分治
+|    Medium    | [148. Sort List](https://github.com/YuhanYue/LeetCode-Cpp/blob/main/Divide%20and%20Conquer/148.%20Sort%20List.md)| 2021.07.08
 
