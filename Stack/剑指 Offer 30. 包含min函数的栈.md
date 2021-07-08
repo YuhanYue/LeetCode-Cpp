@@ -26,7 +26,7 @@ minStack.min();   --> 返回 -2.
 
 辅助栈
 
-<img src="/Users/yuhan/Library/Application Support/typora-user-images/Screen Shot 2021-03-09 at 4.09.00 PM.png" alt="Screen Shot 2021-03-09 at 4.09.00 PM" style="zoom:50%;" />
+
 
 
 
